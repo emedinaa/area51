@@ -1,0 +1,15 @@
+body
+{
+	background-color: #d4d4d4;
+	margin: 0px;
+	padding: 0px;
+}
+#container
+{
+	width: 200px;
+	height: 200px;
+	background-color: orange;
+	margin-left: 10px;
+	margin-top: 10px;
+	text-align: center;
+}

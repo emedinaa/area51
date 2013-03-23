@@ -1,0 +1,49 @@
+body
+{
+	background-color:  #d4d4d4;
+	margin: 0px;
+	padding: 0px;
+}
+#container
+{
+	width: 1024px;
+	height: 200px;
+	background-color: white;
+	text-align: center;
+}
+
+.mydiv
+{
+	width: 500px;
+	height: 190px;
+	float: left;
+	background-color: orange;
+	margin: 5px;
+}
+#box3
+{
+	width: 1024px;
+	height: 150px;
+	background-color: blue;
+}
+
+/* mediaqueries */ 
+@media screen and (max-width:760px)
+{	
+	#container
+	{
+		height: 400px;
+	}
+	.mydiv
+	{
+		float: none;
+	}
+	#box3
+	{
+		width: 100%;
+	}
+}
+@media screen and (max-width:480px)
+{
+
+}
