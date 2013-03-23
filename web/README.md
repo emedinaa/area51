@@ -7,6 +7,6 @@ WEB
 
 2013
 -------------------------------------------
-* Febrero - Foundations Javascript and Jquery
-* Marzo - Foundations Javascript and Jquery
+* Febrero - Fundamentals Javascript and Jquery
+* Marzo - Fundamentals Javascript and Jquery
 * Marzo - Responsive and Mediaqueries

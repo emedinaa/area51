@@ -1,0 +1,2 @@
+FUNDAMENTALS RESPONSIVE AND MEDIAQUERIES
+=========================================
