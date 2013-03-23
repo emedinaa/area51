@@ -6,3 +6,8 @@ Cursos dictados y conferencias en Area51
 * 2.- Media
 * 3.- VideoGames
 * 4.- Web
+
+
+----------------------------------------------
+References 
+* http://daringfireball.net/projects/markdown/syntax
